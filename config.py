@@ -1,0 +1,4 @@
+TOKEN = ''
+PAY_TOKEN = ''
+GROUP_ID_ADMIN = -879483166
+ADMINS_ID = ['arsssss']
